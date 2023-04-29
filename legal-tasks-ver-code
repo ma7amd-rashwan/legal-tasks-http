@@ -1,6 +1,4 @@
-{
-"codecs" : [{
-"version_code" : 23,
-"version_link" : "https://google.com"
+[{
+"version_code": 23,
+"version_link": "https://google.com"
 }]
-}
